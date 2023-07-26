@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #011627;
+    color: #fdfffc;
+    text-align: center;
+    background-image: url('img.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+h1{
+    font-size: 45px;
+    letter-spacing: 0.2em;
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px; 
+    background-color: white;
+    color: black;
+    border-style: none;
+}
+.btn:hover{
+    background-color: rgb(10, 109, 109);
+    cursor: pointer;
+}
